@@ -39,3 +39,8 @@ padding: 20px;
     padding-bottom: 3%;
 }
 
+@media (max-width: 768px) {
+    #home {
+        display: none;
+    }
+}
